@@ -41,6 +41,7 @@ chan3785/chan3785 is a ✨ special ✨ repository because its README.md (this fi
 |------------|-----------------------------------|-------------------|----------------|---------------------------------------------|---------------|
 | 2024.11    | Build On                         | Data & Service    | DataDiscovery  | 🥇 PYUSD — Build with PYUSD                | [See more...](#) |
 | 2024.11    | Redacted      | AI & Service | Dead Project Snipper | 🥇 Masa - Build AI Agent with FREE Masa Twitter Data, Native Track - Honorable Mentions | [See more...](#) |
+| 2024.11    | Funding the Commons & Earth Commons Hackathon | AI & Service  | Dead Project Snipper  | 🥇 FtC: Gold bounty       | [See more...](#) |
 | 2024.11    | XRPL SEA HACKATHON 2024          | Service           | Ripple Market  | 🥉 XRPL EVM Sidechain - 3rd place          | [See more...](#) |
 
 
