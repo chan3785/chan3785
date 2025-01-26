@@ -17,7 +17,7 @@ chan3785/chan3785 is a ✨ special ✨ repository because its README.md (this fi
 - Experience in back-end, contract, AI
 
 ## 🥞 Stacks
-### Every day
+### Everyday
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%22%22?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%22%22?style=flat&logo=TypeScript&logoColor=white&color=3178C6"> <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%22%22?style=flat&logo=Next.js&logoColor=white&color=000000"> <img alt="Static Badge" src="https://img.shields.io/badge/React-%22%22?style=flat&logo=React&logoColor=white&color=61DAFB"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%22%22?style=flat&logo=HTML5&logoColor=white&color=E34F26">
 ### Often
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%22%22?style=flat&logo=MySQL&logoColor=white&color=4479A1"> <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-%22%22?style=flat&logo=DBeaver&logoColor=white&color=382923"> 
