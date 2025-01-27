@@ -12,8 +12,8 @@ chan3785/chan3785 is a ✨ special ✨ repository because its README.md (this fi
 
 ## 🤠 Can do this!
 - Front-End Develop
-- also can Mysql, postgresQl, DBeaver
-- and Solidity smart contract
+- Also can DB
+- smart contract Solidity
 - Experience in back-end, contract, AI
 
 ## 🥞 Stacks
