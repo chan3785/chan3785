@@ -7,8 +7,8 @@ chan3785/chan3785 is a ✨ special ✨ repository because its README.md (this fi
 - I'm Front-end Developer
 - 🎓 Currently enrolled Inha university, Information and Communication Engineering
 - 🎓 Completed 2024 Incheon Blockchain College
-- 👨‍💻 1 Experience Blockchain front-end developer
-- 🏆 4x Web3 Hackathons Winner
+- 👨‍💻 1 year Experience Blockchain front-end developer
+- 🏆 6x Web3 Hackathons Winner
 
 ## 🤠 Can do this!
 - Front-End Develop
