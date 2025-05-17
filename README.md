@@ -20,8 +20,7 @@ chan3785/chan3785 is a ✨ special ✨ repository because its README.md (this fi
 ### Everyday
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-%22%22?style=flat&logo=Python&logoColor=white&color=3776AB"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%22%22?style=flat&logo=TypeScript&logoColor=white&color=3178C6"> <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%22%22?style=flat&logo=Next.js&logoColor=white&color=000000"> <img alt="Static Badge" src="https://img.shields.io/badge/React-%22%22?style=flat&logo=React&logoColor=white&color=61DAFB"> 
 ### Often
- <img alt="Static Badge" src="https://img.shields.io/badge/Go-%22%22?style=flat&logo=Go&logoColor=black&color=FFFFFF"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Solidity-%22%22?style=flat&logo=Solidity&logoColor=white&color=363636"> 
+<img src="https://img.shields.io/badge/Go-%22%22?style=flat&logo=Go&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/Solidity-%22%22?style=flat&logo=Solidity&logoColor=white&color=363636"> 
 ### Sometimes - knowlegable
  <img alt="Static Badge" src="https://img.shields.io/badge/Unity-%22%22?style=flat&logo=Unity&logoColor=black&color=FFFFFF"> 
  <img alt="Static Badge" src="https://img.shields.io/badge/Rust-%22%22?style=flat&logo=rust&logoColor=white&color=%23000000">
