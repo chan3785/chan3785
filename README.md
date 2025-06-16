@@ -12,9 +12,9 @@ chan3785/chan3785 is a ✨ special ✨ repository because its README.md (this fi
 
 ## 🤠 Can do this!
 - Front-End Develop
-- Also can DB
+- Also can Back-End, DB, CI/CD
 - smart contract Solidity
-- Experience in back-end, contract, AI
+- Experience in AI agent developement
 
 ## 🥞 Stacks
 ### Everyday
